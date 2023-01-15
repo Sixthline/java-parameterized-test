@@ -23,8 +23,8 @@
 hs_err_pid*
 
 # Directory
-.idea/
 target/
+.idea/
 
 # MAC
 .DS_Store
